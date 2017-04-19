@@ -23,8 +23,7 @@
 - show_filters	
 - alter_status	
 - alter_async	
-## 
-**Data Manipulation commands  ** ##
+## Data Manipulation commands  ##
 - count	
 - delete	
 - deleteall	
@@ -34,8 +33,7 @@
 - put	
 - scan	
 - truncate	
-## 
-**HBase Administrator tools** ##
+## HBase Administrator tools ##
 
 - assign	
 - balancer	
@@ -50,7 +48,7 @@
 - hlog_roll	
 - zk_dump	
 
-## **Cluster replication Commands** ##
+## Cluster replication Commands ##
 - add_peer	
 - remove_peer	
 - list_peers	
@@ -58,7 +56,7 @@
 - disable_peer	
 - start_replication	
 - stop_replication	
-## **Security tools** ##
+## Security tools ##
 - grant	
 - revoke	
 - user_permission	
