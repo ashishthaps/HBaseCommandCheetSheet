@@ -1,12 +1,12 @@
 # HBase command cheetsheet #
 ## 
-**General HBase shell commands** ##
+General HBase shell commands ##
 
 - status	
 - version	
 - whoami	
 
-## **Tables Management commands** ##
+## Tables Management commands ##
 - alter	
 - create	
 - describe	
