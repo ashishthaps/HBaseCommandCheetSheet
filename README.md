@@ -1,6 +1,6 @@
 # HBase command cheetsheet #
-## 
-General HBase shell commands ##
+
+## General HBase shell commands ##
 
 - status	
 - version	
